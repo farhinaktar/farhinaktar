@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hey,there 👋, Welcome to my profile
+## 💫 About Me:
 🔭 I’m currently working on my portfolio<br>👯 I’m looking to collaborate on web projects<br>🤝 I’m looking for help with career guidance<br>🌱 I’m currently learning next.js<br>💬 Ask me about web development<br>⚡ Fun fact :- I'm a cat mom
 
 
